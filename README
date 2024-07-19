@@ -1,0 +1,6 @@
+first install pandas  if your machine donot have pandas
+second install matplolib.pyplot if your machine donot have matplotlib
+thirdly install scikit-learn if your machine do not have scikit-learn
+fouth install numpy if your machine do not have numpy
+fifth install joblib if your machine donot have joblib 
+
